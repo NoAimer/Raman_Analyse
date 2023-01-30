@@ -7,3 +7,5 @@ Was die Programme machen:
 - Datenlese_GUI gibt nur an wie viele Datein er mit der Path-Methode und wie viele mit der Filedialog-Methode erkannt hat. Dann sagt er noch wie viele einzelne Datein er gesammelt hat. 
 
 - Analyse (In Progress) analysiert die einzelnen Datein und so aber da funktioniert eigentlich noch garnichts.
+
+- Spyder Test 3 ist die neue Analyse
